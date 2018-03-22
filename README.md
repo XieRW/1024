@@ -21,7 +21,7 @@
 
 ![数字与颜色对照表][img-number2color]
 
-RGB格式颜色表：
+RGB格式颜色表： 
 
 ![数字与颜色对照表][img-colors]
 
